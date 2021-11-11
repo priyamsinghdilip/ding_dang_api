@@ -119,7 +119,19 @@
         }
     ],
     "audios": [
-      { "id": 1, "body": "some comment", "postId": 1 }
+        { 
+            "id": 1, 
+            "img": "some comment", 
+            "title": "",
+            "file" : "http://commondatastorage.googleapis.com/codeskulptor-assets/jump.ogg"
+        },
+
+        {
+            "id": 2, 
+            "img": "some comment", 
+            "title": "",
+            "file" : "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
+        }
     ],
     "profile": { "name": "Dilip" }
 }
