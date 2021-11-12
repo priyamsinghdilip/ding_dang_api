@@ -121,16 +121,30 @@
     "audios": [
         { 
             "id": 1, 
-            "img": "some comment", 
-            "title": "",
+            "img": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/arijit-singh-1048083-24-03-2017-18-02-00.jpg", 
+            "title": "Arijit Singh",
             "file" : "http://commondatastorage.googleapis.com/codeskulptor-assets/jump.ogg"
         },
 
         {
             "id": 2, 
-            "img": "some comment", 
-            "title": "",
+            "img": "https://www.bollywoodhungama.com/wp-content/uploads/2021/07/Sonu-Nigam-reveals-why-he-stopped-judging-Indian-Idol-2.jpg", 
+            "title": "Sonu Nigam",
             "file" : "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
+        },
+
+        { 
+            "id": 3, 
+            "img": "https://a10.gaanacdn.com/gn_img/artists/10q3ZR1352/0q3Z6Lg135/size_m_1628742816.jpg", 
+            "title": "Jubin Nautiyal",
+            "file" : "http://commondatastorage.googleapis.com/codeskulptor-assets/Evillaugh.ogg"
+        },
+
+        { 
+            "id": 4, 
+            "img": "https://pbs.twimg.com/profile_images/3741065171/e16e3bf611148304332b574833331a7e_400x400.jpeg", 
+            "title": "Shankar Mahadevan",
+            "file" : "http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3"
         }
     ],
     "profile": { "name": "Dilip" }
